@@ -1,0 +1,8 @@
+com/accenture/ngDemo/UserService.java
+ com.accenture.ngDemo.UserService
+com/accenture/ngDemo/User.java
+ com.accenture.ngDemo.User
+com/accenture/ngDemo/DemoApplication.java
+ com.accenture.ngDemo.DemoApplication
+com/accenture/ngDemo/UserController.java
+ com.accenture.ngDemo.UserController
